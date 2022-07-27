@@ -11,4 +11,4 @@ Final project in fulfillment of IBM Getting Started with Git and GitHub course: 
    **r**, annual rate of interest <br>
    
 **Output:** <br>
-   **simple interest** = p*t*r <br>
+   **simple interest** = p\*t\*r <br>
